@@ -104,7 +104,7 @@ export default function Reviews() {
 
             {/* Review Text */}
             <p className="text-gray-700 dark:text-gray-300 text-lg leading-relaxed italic">
-              "{reviews[currentIndex].review}"
+              &ldquo;{reviews[currentIndex].review}&rdquo;
             </p>
 
             {/* Date */}
@@ -192,7 +192,7 @@ export default function Reviews() {
                 </div>
               </div>
               <p className="text-gray-600 dark:text-gray-400 text-sm line-clamp-3">
-                "{review.review}"
+                &ldquo;{review.review}&rdquo;
               </p>
             </motion.div>
           ))}

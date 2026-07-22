@@ -97,11 +97,11 @@ export default function About() {
               Our cafe is designed to be a warm and inviting space where friends gather, 
               families celebrate, couples create memories, and professionals find their 
               perfect work spot. With our cozy wooden interiors, soft lighting, and friendly 
-              staff, we've created an atmosphere that feels like home.
+              staff, we&apos;ve created an atmosphere that feels like home.
             </p>
 
             <p className="text-gray-600 dark:text-gray-400 text-lg leading-relaxed">
-              Whether you're here for a quick coffee break, a leisurely brunch, a romantic 
+              Whether you&apos;re here for a quick coffee break, a leisurely brunch, a romantic 
               dinner, or a celebration with loved ones, we ensure every visit is memorable. 
               Our commitment to quality, service, and ambience makes us the go-to cafe in Kota.
             </p>

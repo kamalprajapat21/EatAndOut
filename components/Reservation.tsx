@@ -77,7 +77,7 @@ export default function Reservation() {
                   Reservation Confirmed!
                 </h3>
                 <p className="text-green-700 dark:text-green-400">
-                  We've received your reservation. We'll contact you shortly to confirm.
+                  We&apos;ve received your reservation. We&apos;ll contact you shortly to confirm.
                 </p>
               </div>
             </motion.div>

@@ -35,7 +35,7 @@ export default function Gallery() {
             Gallery
           </h2>
           <p className="section-subtitle">
-            A glimpse into our cafe's delightful moments
+            A glimpse into our cafe&apos;s delightful moments
           </p>
         </motion.div>
 

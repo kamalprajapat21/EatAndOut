@@ -82,7 +82,7 @@ export default function Contact() {
             Get In Touch
           </h2>
           <p className="section-subtitle">
-            We'd love to hear from you. Visit us or reach out anytime!
+            We&apos;d love to hear from you. Visit us or reach out anytime!
           </p>
         </motion.div>
 

@@ -27,12 +27,12 @@ export default function TodaysSpecials() {
           <div className="flex items-center justify-center mb-4">
             <Star className="h-8 w-8 text-accent fill-accent" />
             <h2 className="section-title text-primary dark:text-secondary mx-4">
-              Today's Specials
+              Today&apos;s Specials
             </h2>
             <Star className="h-8 w-8 text-accent fill-accent" />
           </div>
           <p className="section-subtitle">
-            Chef's handpicked recommendations just for you
+            Chef&apos;s handpicked recommendations just for you
           </p>
         </motion.div>
 
@@ -50,7 +50,7 @@ export default function TodaysSpecials() {
               {/* Chef's Recommendation Badge */}
               <div className="absolute top-4 left-4 z-10 bg-accent text-white px-4 py-2 rounded-full flex items-center gap-2 shadow-lg">
                 <Award className="h-4 w-4" />
-                <span className="text-sm font-bold">Chef's Pick</span>
+                <span className="text-sm font-bold">Chef&apos;s Pick</span>
               </div>
 
               {/* Image */}
@@ -117,7 +117,7 @@ export default function TodaysSpecials() {
             Limited Time Offer!
           </h3>
           <p className="text-lg opacity-90">
-            Get 20% off on all today's specials. Valid until stocks last!
+            Get 20% off on all today&apos;s specials. Valid until stocks last!
           </p>
         </motion.div>
       </div>
